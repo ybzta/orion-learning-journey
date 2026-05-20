@@ -1,0 +1,5 @@
+print("Hello, I am Orion!")
+print("我正在学习：Obsidian, GitHub, Claude Code")
+print("今天是2026年5月20日")
+print("今天我学会了Claude Code！")
+print("Claude Code = AI工程师，直接动手干活")
